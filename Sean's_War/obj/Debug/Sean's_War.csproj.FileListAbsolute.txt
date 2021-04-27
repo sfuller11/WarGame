@@ -1,0 +1,10 @@
+C:\Users\seanf\OneDrive\Desktop\3342 prodz\Sean's_War\Sean's_War\bin\Debug\Sean's_War.exe.config
+C:\Users\seanf\OneDrive\Desktop\3342 prodz\Sean's_War\Sean's_War\bin\Debug\Sean's_War.exe
+C:\Users\seanf\OneDrive\Desktop\3342 prodz\Sean's_War\Sean's_War\bin\Debug\Sean's_War.pdb
+C:\Users\seanf\OneDrive\Desktop\3342 prodz\Sean's_War\Sean's_War\obj\Debug\Sean's_War.csprojAssemblyReference.cache
+C:\Users\seanf\OneDrive\Desktop\3342 prodz\Sean's_War\Sean's_War\obj\Debug\Sean_s_War.Properties.Resources.resources
+C:\Users\seanf\OneDrive\Desktop\3342 prodz\Sean's_War\Sean's_War\obj\Debug\Sean's_War.csproj.GenerateResource.cache
+C:\Users\seanf\OneDrive\Desktop\3342 prodz\Sean's_War\Sean's_War\obj\Debug\Sean's_War.csproj.CoreCompileInputs.cache
+C:\Users\seanf\OneDrive\Desktop\3342 prodz\Sean's_War\Sean's_War\obj\Debug\Sean's_War.exe
+C:\Users\seanf\OneDrive\Desktop\3342 prodz\Sean's_War\Sean's_War\obj\Debug\Sean's_War.pdb
+C:\Users\seanf\OneDrive\Desktop\3342 prodz\Sean's_War\Sean's_War\obj\Debug\Sean_s_War.Form1.resources
